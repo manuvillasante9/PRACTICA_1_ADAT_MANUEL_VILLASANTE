@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+    <pelicula>
+        <id>1</id>
+        <nombre>Rambo</nombre>
+        <duracion>134</duracion>
+        <anio>1993</anio>
+        <formato>Digital</formato>
+        <estado>Bueno</estado>
+    </pelicula>
+    <pelicula>
+        <id>2</id>
+        <nombre>Matrix</nombre>
+        <duracion>145</duracion>
+        <anio>1999</anio>
+        <formato>CD</formato>
+        <estado>Excelente</estado>
+    </pelicula>
+    <pelicula>
+        <id>3</id>
+        <nombre>P.Tinto</nombre>
+        <duracion>98</duracion>
+        <anio>2009</anio>
+        <formato>Blu-ray</formato>
+        <estado>Usado</estado>
+    </pelicula>
+</peliculas>
